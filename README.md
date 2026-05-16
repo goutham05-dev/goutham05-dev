@@ -18,7 +18,7 @@ Python · Gemini API · Streamlit · ChromaDB · Git
 ✅ Build Real World AI Apps with Gemini & Imagen  
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/goutham-v-nair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/goutham-v-nair/)
 
 <!--
 **goutham05-dev/goutham05-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
